@@ -20,8 +20,9 @@ Cybersecurity analyst with expertise in threat intelligence and security operati
 
 ## 📊 Projects & Contributions
 
+- **Trivy Web Scanner**: User-friendly web interface for Trivy vulnerability scanner, providing dashboard for scan management and vulnerability visualization for containers, filesystems, and Git repositories.
 - Active contributor on VirusTotal, sharing threat intelligence findings
-- Honeypot Implementation for Threat Intellegience - Hosted a Honeypot System using TPot Honeypot Framework on Cloud running a Debian 12 OS.
+- **Honeypot Implementation for Threat Intelligence**: Hosted a Honeypot System using TPot Honeypot Framework on Cloud running a Debian 12 OS.
 
 ## 📫 Get In Touch
 
